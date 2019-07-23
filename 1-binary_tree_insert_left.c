@@ -18,7 +18,6 @@ void replace_left(binary_tree_t *parent, binary_tree_t *node)
 	node->parent = parent;
 }
 
-
 /**
  * *binary_tree_insert_left - creates a binary tree node
  * @parent: pointer to the parent node of the node to create.
